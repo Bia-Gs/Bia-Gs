@@ -41,7 +41,7 @@
 <h3 align="left">🌐 <span style="color:#FF00F6;">Connect with me</span></h3>
 
 <p align="left">
-  <a href="mailto:meduardacardoso.121@gmail.com">
+  <a href="mailto:beatrizana.gsantos@gmail.com">
     <img src="https://img.shields.io/badge/Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6" />
   </a>
   
