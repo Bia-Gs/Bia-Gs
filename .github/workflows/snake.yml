@@ -16,7 +16,8 @@ jobs:
         with:
           github_user_name: Bia-Gs
           outputs: |
-            dist/snake.svg?color_snake=FF00F6&color_dots=#000000,#000000,#080808,#141414,#1f1f1f
+            dist/snake.svg?color_snake=FF00F6&color_dots=#000000,#0a0a0a,#111111,#1a1a1a,#222222
+
       - uses: JamesIves/github-pages-deploy-action@v4
         with:
           branch: output
