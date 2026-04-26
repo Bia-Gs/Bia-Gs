@@ -8,8 +8,15 @@
 
 #
 
-<p align="center">Estudante de Análise e Desenvolvimento de Sistemas na Faculdade de Engenharia de Sorocaba. Atualmente trabalho com Go e estudo Java paralelamente.
-Estou constantemente atualizando meus conhecimentos e buscando novos desafios na área de tecnologia. Tenho paixão por aprender e aplicar esses conhecimentos para criar soluções inovadoras.
+<p align="center">Estudante de Engenharia da computação na Univeridade de Taubaté - UNITAU, apaixonada por transformar ideias em soluções e por entender como a tecnologia resolve problemas reais. Atualmente atuo na área de TI com foco em desenvolvimento e automação, sempre buscando ir além do básico.
+
+⚡ Trabalho com Python, C, C++, Java, HTML E CSS, JavaScript e SQL, explorando desde desenvolvimento até integrações e melhorias de processos.
+
+🚀 Já passei por diferentes áreas, o que me deu uma visão prática, adaptável e orientada a resultados porque no fim, código bom é código que funciona e gera impacto.
+
+🎯 Estou construindo minha trajetória no desenvolvimento com consistência, aprendizado contínuo e vontade de fazer acontecer.
+
+✨ Não é só sobre programar. É sobre evoluir, criar e deixar minha marca na tecnologia.
   
 #
 
@@ -18,8 +25,8 @@ Estou constantemente atualizando meus conhecimentos e buscando novos desafios na
 <h3 align="left">Connect with me!</h3>
 
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:meduardacardoso.121@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/mari4souza/)
-[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6&color:FFF)](https://www.instagram.com/mari4.souza/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](www.linkedin.com/in/ana-beatriz-gomes-084405274)
+[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6&color:FFF)](https://www.instagram.com/bia_gomesxz/)
 
 
 <h3 align="left">My Stack ~</h3>
