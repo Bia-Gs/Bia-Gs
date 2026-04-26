@@ -10,7 +10,7 @@
 
 <p align="center">Estudante de Engenharia da computação na Univeridade de Taubaté - UNITAU, apaixonada por transformar ideias em soluções e por entender como a tecnologia resolve problemas reais. Atualmente atuo na área de TI com foco em desenvolvimento e automação, sempre buscando ir além do básico.
 
-⚡ Trabalho com Python, C, C++, Java, HTML E CSS, JavaScript e SQL, explorando desde desenvolvimento até integrações e melhorias de processos.
+<p⚡ Trabalho com Python, C, C++, Java, HTML E CSS, JavaScript e SQL, explorando desde desenvolvimento até integrações e melhorias de processos.
 
 🚀 Já passei por diferentes áreas, o que me deu uma visão prática, adaptável e orientada a resultados porque no fim, código bom é código que funciona e gera impacto.
 
