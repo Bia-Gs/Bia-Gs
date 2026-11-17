@@ -38,6 +38,9 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 10
     steps:
+      - name: Baixar o repositorio
+        uses: actions/checkout@v4
+
       - name: Gerar cards de estatisticas
         uses: vn7n24fzkq/github-profile-summary-cards@release
         env:
